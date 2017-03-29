@@ -1,2 +1,2 @@
 # dotfiles
-my backup dotfiles 
+dotfiles backup
