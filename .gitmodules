@@ -1,0 +1,4 @@
+[submodule "Oh My Tmux"]
+	path = tmux
+	url = https://github.com/gpakosz/.tmux.git
+	branch = master
